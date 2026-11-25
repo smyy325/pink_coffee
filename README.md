@@ -59,6 +59,9 @@ test/
 - `mocktail` (`^1.0.4`) *(dev)*
 
 ---
+<img width="445" height="877" alt="Ekran Resmi 2026-11-25 21 02 19" src="https://github.com/user-attachments/assets/4f3b8b1b-ca0f-4600-bab7-4bdb3a5be504" />
+
+---
 
 ## Kurulum ve Çalıştırma
 
@@ -75,3 +78,4 @@ flutter test
 # Uygulamayı çalıştır
 flutter run
 ```
+
